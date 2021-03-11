@@ -5,5 +5,5 @@
    - 참여 인원 : 영찬, 병욱, 재운, 현우, 범준, 소담
    ### # Tech Stack
       - Java, AWT, Swing, JDBC, socket
-   ### 프로젝트 발표 자료
-   - 	[푸드코트_발표_PDF](https://drive.google.com/file/d/1b11-IN8bxai-XK85VSjyLsDHrNsKDDZo/view?usp=sharing)
+   ### 프로젝트 PDF
+   - 	[푸드코트_PDF](https://drive.google.com/file/d/1b11-IN8bxai-XK85VSjyLsDHrNsKDDZo/view?usp=sharing)
