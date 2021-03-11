@@ -6,4 +6,4 @@
    ### # Tech Stack
       - Java, AWT, Swing, JDBC, socket
    ### 프로젝트 발표 자료
-   - 	[푸드코트_발표_PDF](https://drive.google.com/file/d/1b11-IN8bxai-XK85VSjyLsDHrNsKDDZo/view?usp=sharing).
+   - 	[푸드코트_발표_PDF](https://drive.google.com/file/d/1b11-IN8bxai-XK85VSjyLsDHrNsKDDZo/view?usp=sharing)
